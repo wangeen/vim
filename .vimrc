@@ -1,6 +1,7 @@
 " ~/.vimrc (configuration file for vim only)
 " skeletons
 set tabstop=4
+syntax on
 set softtabstop=4
 set shiftwidth=4
 
