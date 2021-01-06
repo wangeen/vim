@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/junwang/Workspace/11_Autonumous Driving/S/zero-auto/ros_tutorials/log/latest_build'
+let g:netrw_dirhist_2='/Users/junwang/Workspace/11_Autonumous Driving/S/zero-auto/ros_tutorials/log'
+let g:netrw_dirhist_3='/Users/junwang/Workspace/11_Autonumous Driving/S/zero-auto/src/common/include'
+let g:netrw_dirhist_4='/Users/junwang/Workspace/11_Autonumous Driving/S/zero-auto/src/common/include/data'
+let g:netrw_dirhist_5='/Users/junwang/Workspace/11_Autonumous Driving/S/zero-auto/src/components/environment_model_algo'
+let g:netrw_dirhist_6='/Users/junwang/Workspace/11_Autonumous Driving/S/zero-auto/src/components/function_management'
+let g:netrw_dirhist_7='/Users/junwang/Workspace/11_Autonumous Driving/S/zero-auto/src/ros/vision_algo_node'
